@@ -1,5 +1,6 @@
 // 토마토2
 // issue : 3차원 배열의 인덱스 순서
+// 해결방법 : 높이 인덱스를 입력 반복문 가장 바깥쪽에 위치시킴
 
 #include <iostream>
 #include <queue>
@@ -40,9 +41,9 @@ void BTS() {
 
 int main() {
 	cin >> N >> M >> H;
-	for (int i = 0; i < M; i++) {
-		for (int j = 0; j < N; j++) {
-			for (int k = H-1; k >= 0; k--) {
+	for (int k = H - 1; k >= 0; k--) {
+		for (int i = 0; i < M; i++) {
+			for (int j = 0; j < N; j++) {
 				cin >> box[i][j][k];
 			}
 		}
