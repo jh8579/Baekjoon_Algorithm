@@ -3,6 +3,7 @@
 // 해결방법 : char 배열로 한줄 입력을 받고 인덱스로 접근해 한자리씩 int 배열에 변환하여 넣어준다.
 //
 // issue2: 최솟값을 출력해야 하는데 여러 경로를 고려하면서 최대값이 출력된다.
+// 해결방법 : BTS 함수 안에 flag 불 변수를 만들어 한 번 도착지에 도착하면 함수를 끝낸다.
 
 #include <iostream>
 #include <queue>
@@ -35,7 +36,7 @@ int main() {
 	}
 	for (int i = 0; i < N; i++) {
 		for (int j = M - 1; j >= 0; j--) {
-			board[i][j] = temp[i][j] - '0';
+			board[i][j] = temp[i][j] - '0';		// 문자인 숫자를 정수형으로 변환
 		}
 	}
 
@@ -55,12 +56,17 @@ int main() {
 }
 
 void BTS() {
-	while (!q.empty()) {
+	bool flag = 1;						// 최솟값을 위한 불 변수 추가
+	while (!q.empty() && flag) {
 		location temp = q.front();
 
 		for (int i = 0; i < 4; i++) {
 			int nx = temp.x + dx[i];
 			int ny = temp.y + dy[i];
+
+			if (nx == N - 1 && ny == M - 1) {
+				flag = false;
+			}
 
 			if (nx >= 0 && nx < N && ny >= 0 && ny < M) {
 				if (board[nx][ny] == 1) {
