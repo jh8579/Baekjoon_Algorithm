@@ -1,5 +1,6 @@
 // 단지번호붙이기
 // issue1 : 큐에 중복되어 들어가는 경우가 발생한다.
+// 해결방법 : 큐에 넣을 때도 큐에 들어간 좌표인지 구분해주기 위해 0으로 만들어주어야 한다. 
 
 #include <iostream>
 #include <algorithm>
@@ -70,6 +71,7 @@ void BFS() {
 
 			if (nx >= 0 && nx < N && ny >= 0 && ny < N) {
 				if (field[nx][ny] != 0) {
+					field[nx][ny] = 0;			// 큐에 넣을 때도 0 초기화
 					q.push({ nx,ny });
 				}
 			}
