@@ -1,8 +1,10 @@
 // 미로 탐색
 // issue1: 한줄에 숫자를 한꺼번에 받으면서 100자리 숫자를 받게 될 경우 int로 값을 처리할 수 없다
+// 해결방법 : char 배열로 한줄 입력을 받고 인덱스로 접근해 한자리씩 int 배열에 변환하여 넣어준다.
 
 #include <iostream>
 #include <queue>
+#include <string>
 using namespace std;
 
 struct location {
@@ -24,15 +26,14 @@ void BTS();
 int main() {
 	cin >> N >> M;
 
-	int temp[110];
+	char temp[110][110];
 
 	for (int i = 0; i < N; i++) {
 		cin >> temp[i];
 	}
 	for (int i = 0; i < N; i++) {
-		for (int j = M-1; j >= 0; j--) {
-			board[i][j] = temp[i] % 10;
-			temp[i] /= 10;
+		for (int j = M - 1; j >= 0; j--) {
+			board[i][j] = temp[i][j] - '0';	// 문자인 숫자를 정수형으로 변환
 		}
 	}
 
@@ -48,9 +49,7 @@ int main() {
 	}
 
 	cout << Max;
-	cin >> N;
-
-	
+	cin >> Max;
 }
 
 void BTS() {
