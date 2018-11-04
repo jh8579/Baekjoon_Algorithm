@@ -116,12 +116,13 @@
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
+
 [11047]: https://github.com/h8579/algorithm_study/blob/master/2018/
 [1931]: https://github.com/h8579/algorithm_study/blob/master/2018/
 [11399]: https://github.com/h8579/algorithm_study/blob/master/2018/
-[2193] : https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp
-[9095] : https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
-[11762] : https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11762.cpp
+[2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp
+[9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
+[11762]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11762.cpp
 [1010]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1010.cpp
 [14888]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14888.cpp
 [14502]: https://github.com/jh8579/algorithm_study/blob/master/2018/14502_lab/lab.cpp
