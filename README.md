@@ -3,6 +3,8 @@
 [백준 온라인 저지]
 ----------------
 ## 분류
+0. 다시 풀어볼 문제
+
 1. 동적 계획법
 - [2193]    : 1,2,3 더하기[(문제)](https://www.acmicpc.net/problem/2193)
 - [9095]    : 이친수[(문제)](https://www.acmicpc.net/problem/9095)
@@ -23,7 +25,7 @@
 - [14502]   : 연구소[(문제)](https://www.acmicpc.net/problem/14502)
 - [14891]   : 톱니바퀴[(문제)](https://www.acmicpc.net/problem/14891)
 - [12100]   : 2048(easy)[(문제)](https://www.acmicpc.net/problem/12100)
-- [3190]   : 뱀[(문제)](https://www.acmicpc.net/problem/3190)
+- [3190]    : 뱀[(문제)](https://www.acmicpc.net/problem/3190)
 - [13458]   : 시험 감독[(문제)](https://www.acmicpc.net/problem/13458)
 - [14499]   : 주사위 굴리기[(문제)](https://www.acmicpc.net/problem/14499)
 - [14500]   : 테트로미노[(문제)](https://www.acmicpc.net/problem/14500)
@@ -97,7 +99,7 @@
 - [2589]    : 보물섬[(문제)](https://www.acmicpc.net/problem/2589)
 - [5014]    : 스타트링크[(문제)](https://www.acmicpc.net/problem/5014)
 - [1963]    : 소수경로[(문제)](https://www.acmicpc.net/problem/1963)
-- [10026]    : 적록색약[(문제)](https://www.acmicpc.net/problem/10026)
+- [10026]   : 적록색약[(문제)](https://www.acmicpc.net/problem/10026)
 - [3055]    : 탈출[(문제)](https://www.acmicpc.net/problem/3055)
 - [2573]    : 빙산[(문제)](https://www.acmicpc.net/problem/2573)
 - [2206]    : 벽 부수고 이동하기[(문제)](https://www.acmicpc.net/problem/2206)
