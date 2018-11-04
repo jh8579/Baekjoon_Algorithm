@@ -203,15 +203,11 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [2573]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2573.cpp
 [2206]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2206.cpp
 [9019]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9019.cpp
-[1753]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1753_shortest_path/shortest.cpp
-[1504]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1504_special_shortest/special.cpp
+[1753]: https://github.com/jh8579/algorithm_study/blob/master/2018/1753_shortest_path/shortest.cpp
+[1504]: https://github.com/jh8579/algorithm_study/blob/master/2018/1504_special_shortest/special.cpp
 [9466]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9466.cpp
-[1260]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1260_dfs_bfs/issue/dfs_bfs.cpp
-[1865]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1865_wormhole/wormhole.cpp
+[1260]: https://github.com/jh8579/algorithm_study/blob/master/2018/1260_dfs_bfs/issue/dfs_bfs.cpp
+[1865]: https://github.com/jh8579/algorithm_study/blob/master/2018/1865_wormhole/wormhole.cpp
 [10451]:
 https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
 [10845]:
