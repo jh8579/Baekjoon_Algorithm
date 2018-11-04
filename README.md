@@ -110,18 +110,25 @@
 - [1753]    : 최단 경로[(문제)](https://www.acmicpc.net/problem/1753)
 - [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
 
+12. 그리디 알고리즘
+- [11047]    : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
+- [1931]    : 회의실배정[(문제)](https://www.acmicpc.net/problem/1931)
+- [11399]    : ATM[(문제)](https://www.acmicpc.net/problem/11399)
+
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
+
+[11047]: https://github.com/h8579/algorithm_study/blob/master/2018/
+[1931]: https://github.com/h8579/algorithm_study/blob/master/2018/
+[11399]: https://github.com/h8579/algorithm_study/blob/master/2018/
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
 [11762]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11762.cpp
 [1010]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1010.cpp
 [14888]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/14888.cpp
-[14502]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/14502_lab/lab.cpp
-[14891]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/14891_wheel/wheel.cpps
+[14502]: https://github.com/jh8579/algorithm_study/blob/master/2018/14502_lab/lab.cpp
+[14891]: https://github.com/jh8579/algorithm_study/blob/master/2018/14891_wheel/wheel.cpp
 [1978]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1978.cpp
 [2581]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2581.cpp
 [1929]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/1929.cpp
