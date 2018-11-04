@@ -119,9 +119,9 @@
 
 [백준 온라인 저지]: https://www.acmicpc.net
 
-[11047]: https://github.com/h8579/algorithm_study/blob/master/2018/
-[1931]: https://github.com/h8579/algorithm_study/blob/master/2018/
-[11399]: https://github.com/h8579/algorithm_study/blob/master/2018/
+[11047]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11047_coin0/Greedy_01.cpp
+[1931]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1931_meeting/Greedy_02.cpp
+[11399]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11399_ATM/Greedy_03.cpp
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
 [11762]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11762.cpp
