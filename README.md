@@ -34,7 +34,6 @@
 - [14889]   : 스타트와 링크[(문제)](https://www.acmicpc.net/problem/14889)
 - [14890]   : 경사로[(문제)](https://www.acmicpc.net/problem/14890)
 
-
 3. 소수구하기
 - [1978]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1978)
 - [2581]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/2581)
@@ -114,6 +113,12 @@
 - [11047]    : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
 - [1931]    : 회의실배정[(문제)](https://www.acmicpc.net/problem/1931)
 - [11399]    : ATM[(문제)](https://www.acmicpc.net/problem/11399)
+
+13. 분할 정복 알고리즘
+- [10815]    : 숫자 카드[(문제)](https://www.acmicpc.net/problem/10815)
+- [10816]    : 숫자 카드 2[(문제)](https://www.acmicpc.net/problem/10816)
+- [11728]    : 배열 합치기[(문제)](https://www.acmicpc.net/problem/11728)
+- [1517]    : 버블 소트[(문제)](https://www.acmicpc.net/problem/1517)
 
 
 
@@ -214,3 +219,7 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
 https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
 [10871]:
 https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
+[10815]: 
+[10816]: 
+[11728]: 
+[1517]:
