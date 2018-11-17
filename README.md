@@ -215,7 +215,7 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [10451]: https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
 [10845]: https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
 [10871]: https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
-[10815]: 
-[10816]: 
-[11728]:  
-[1517]: 
+[10815]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/10815_card-number-1/card-numer-1.cpp
+[10816]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/10816_card-number-2/card-number-2.cpp
+[11728]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11728_merge-array/merge-array.cpp
+[1517]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1517_count-buble/count-bubble.cpp
