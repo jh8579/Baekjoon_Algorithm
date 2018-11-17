@@ -34,7 +34,6 @@
 - [14889]   : 스타트와 링크[(문제)](https://www.acmicpc.net/problem/14889)
 - [14890]   : 경사로[(문제)](https://www.acmicpc.net/problem/14890)
 
-
 3. 소수구하기
 - [1978]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/1978)
 - [2581]    : 소수구하기[(문제)](https://www.acmicpc.net/problem/2581)
@@ -61,7 +60,6 @@
 7. 데크
 - [10866]   : 덱[(문제)](https://www.acmicpc.net/problem/10866)
 - [1021]    : 회전하는 큐[(문제)](https://www.acmicpc.net/problem/1021)
-- [5430]    : AC[(문제)](https://www.acmicpc.net/problem/5430)
 
 8. 피보나치
 - [2747]    : 피보나치 수[(문제)](https://www.acmicpc.net/problem/2747)
@@ -111,17 +109,23 @@
 - [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
 
 12. 그리디 알고리즘
-- [11047]    : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
+- [11047]   : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
 - [1931]    : 회의실배정[(문제)](https://www.acmicpc.net/problem/1931)
-- [11399]    : ATM[(문제)](https://www.acmicpc.net/problem/11399)
+- [11399]   : ATM[(문제)](https://www.acmicpc.net/problem/11399)
+
+13. 분할 정복 알고리즘
+- [10815]    : 숫자 카드[(문제)](https://www.acmicpc.net/problem/10815)
+- [10816]    : 숫자 카드 2[(문제)](https://www.acmicpc.net/problem/10816)
+- [11728]    : 배열 합치기[(문제)](https://www.acmicpc.net/problem/11728)
+- [1517]     : 버블 소트[(문제)](https://www.acmicpc.net/problem/1517)
 
 
 
 [백준 온라인 저지]: https://www.acmicpc.net
 
-[11047]: https://github.com/h8579/algorithm_study/blob/master/2018/
-[1931]: https://github.com/h8579/algorithm_study/blob/master/2018/
-[11399]: https://github.com/h8579/algorithm_study/blob/master/2018/
+[11047]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11047_coin0/Greedy_01.cpp
+[1931]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1931_meeting/Greedy_02.cpp
+[11399]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11399_ATM/Greedy_03.cpp
 [2193]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2193.cpp
 [9095]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9095.cpp
 [11762]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/11762.cpp
@@ -203,18 +207,15 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [2573]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2573.cpp
 [2206]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/2206.cpp
 [9019]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9019.cpp
-[1753]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1753_shortest_path/shortest.cpp
-[1504]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1504_special_shortest/special.cpp
+[1753]: https://github.com/jh8579/algorithm_study/blob/master/2018/1753_shortest_path/shortest.cpp
+[1504]: https://github.com/jh8579/algorithm_study/blob/master/2018/1504_special_shortest/special.cpp
 [9466]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9466.cpp
-[1260]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1260_dfs_bfs/issue/dfs_bfs.cpp
-[1865]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/1865_wormhole/wormhole.cpp
-[10451]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
-[10845]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
-[10871]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
+[1260]: https://github.com/jh8579/algorithm_study/blob/master/2018/1260_dfs_bfs/issue/dfs_bfs.cpp
+[1865]: https://github.com/jh8579/algorithm_study/blob/master/2018/1865_wormhole/wormhole.cpp
+[10451]: https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
+[10845]: https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
+[10871]: https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
+[10815]: 
+[10816]: 
+[11728]:  
+[1517]: 
