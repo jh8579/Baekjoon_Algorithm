@@ -60,7 +60,6 @@
 7. 데크
 - [10866]   : 덱[(문제)](https://www.acmicpc.net/problem/10866)
 - [1021]    : 회전하는 큐[(문제)](https://www.acmicpc.net/problem/1021)
-- [5430]    : AC[(문제)](https://www.acmicpc.net/problem/5430)
 
 8. 피보나치
 - [2747]    : 피보나치 수[(문제)](https://www.acmicpc.net/problem/2747)
