@@ -109,15 +109,15 @@
 - [1504]    : 특정한 최단 경로[(문제)](https://www.acmicpc.net/problem/1504)
 
 12. 그리디 알고리즘
-- [11047]    : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
+- [11047]   : 동전 0[(문제)](https://www.acmicpc.net/problem/11047)
 - [1931]    : 회의실배정[(문제)](https://www.acmicpc.net/problem/1931)
-- [11399]    : ATM[(문제)](https://www.acmicpc.net/problem/11399)
+- [11399]   : ATM[(문제)](https://www.acmicpc.net/problem/11399)
 
 13. 분할 정복 알고리즘
 - [10815]    : 숫자 카드[(문제)](https://www.acmicpc.net/problem/10815)
 - [10816]    : 숫자 카드 2[(문제)](https://www.acmicpc.net/problem/10816)
 - [11728]    : 배열 합치기[(문제)](https://www.acmicpc.net/problem/11728)
-- [1517]    : 버블 소트[(문제)](https://www.acmicpc.net/problem/1517)
+- [1517]     : 버블 소트[(문제)](https://www.acmicpc.net/problem/1517)
 
 
 
@@ -212,13 +212,10 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [9466]: https://github.com/pouder-Man/algorithm-quiz/blob/master/baekjoon/9466.cpp
 [1260]: https://github.com/jh8579/algorithm_study/blob/master/2018/1260_dfs_bfs/issue/dfs_bfs.cpp
 [1865]: https://github.com/jh8579/algorithm_study/blob/master/2018/1865_wormhole/wormhole.cpp
-[10451]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
-[10845]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
-[10871]:
-https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
+[10451]: https://github.com/jh8579/algorithm_study/blob/master/2018/10451_cycle/cycle.cpp
+[10845]: https://github.com/jh8579/algorithm_study/blob/master/2018/10845_make_queue/issue/make_queue.cpp
+[10871]: https://github.com/jh8579/algorithm_study/blob/master/2018/10871_less_than_x/solved/less_than.cpp
 [10815]: 
 [10816]: 
-[11728]: 
-[1517]:
+[11728]:  
+[1517]: 
