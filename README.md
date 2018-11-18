@@ -113,7 +113,7 @@
 - [1931]    : 회의실배정[(문제)](https://www.acmicpc.net/problem/1931)
 - [11399]   : ATM[(문제)](https://www.acmicpc.net/problem/11399)
 
-13. 분할 정복 알고리즘
+13. 분할 정복 알고리즘(2018/11/18)
 - [10815]    : 숫자 카드[(문제)](https://www.acmicpc.net/problem/10815)
 - [10816]    : 숫자 카드 2[(문제)](https://www.acmicpc.net/problem/10816)
 - [11728]    : 배열 합치기[(문제)](https://www.acmicpc.net/problem/11728)
