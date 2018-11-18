@@ -1,4 +1,3 @@
-// 정적으로 많은 수의 배열을 잡을 때 동적으로 잡아주기!
 
 #include <iostream>
 #include <algorithm>
