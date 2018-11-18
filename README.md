@@ -118,6 +118,7 @@
 - [10816]    : 숫자 카드 2[(문제)](https://www.acmicpc.net/problem/10816)
 - [11728]    : 배열 합치기[(문제)](https://www.acmicpc.net/problem/11728)
 - [1517]     : 버블 소트[(문제)](https://www.acmicpc.net/problem/1517)
+- [1074]     : Z 탐색[(문제)](https://www.acmicpc.net/problem/1074)
 
 
 
@@ -219,3 +220,5 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [10816]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/10816_card-number-2/card-number-2.cpp
 [11728]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11728_merge-array/merge-array.cpp
 [1517]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1517_count-buble/count-bubble.cpp
+[1074]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1517_count-buble/count-bubble.cpp
+
