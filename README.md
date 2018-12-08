@@ -220,5 +220,4 @@ https://github.com/jh8579/algorithm_study/blob/master/2018/13460_zzero2/zzero.cp
 [10816]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/10816_card-number-2/card-number-2.cpp
 [11728]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/11728_merge-array/merge-array.cpp
 [1517]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1517_count-buble/count-bubble.cpp
-[1074]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1517_count-buble/count-bubble.cpp
-
+[1074]: https://github.com/jh8579/Baekjoon_Algorithm/blob/master/2018/1074_z_sort/1074.cpp
